@@ -28,8 +28,6 @@ public class Soal33 {
                 System.out.println("Tidak ada operasi aritmatika tersebut");
                 break;
         } 
-//        System.out.printf("%d %s %d\n",x0,a,x1);
         System.out.println(jmlh);
     }
-    
 }

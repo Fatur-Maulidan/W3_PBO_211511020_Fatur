@@ -16,5 +16,4 @@ public class Soal53 {
             System.out.println("Berhenti");
         }
     }
-    
 }

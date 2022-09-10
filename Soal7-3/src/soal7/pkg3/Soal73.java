@@ -34,5 +34,4 @@ public class Soal73 {
         }
         System.out.print("}");
     }
-    
 }

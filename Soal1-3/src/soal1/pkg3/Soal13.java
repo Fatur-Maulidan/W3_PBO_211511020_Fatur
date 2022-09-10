@@ -1,6 +1,5 @@
 package soal1.pkg3;
 import java.util.Scanner;
-
 public class Soal13 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
